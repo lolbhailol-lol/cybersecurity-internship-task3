@@ -12,8 +12,7 @@
 
 This repository contains the following deliverables for the internship task:
 
-* **Vulnerability Scan Report**: A detailed report outlining the findings of the scan.
-* **Answers to Interview Questions**: A document providing answers to key security concepts related to the task.
+* **Vulnerability Scan Report**: A detailed report outlining the findings of the scan
 
 ### How to Replicate the Scan
 
