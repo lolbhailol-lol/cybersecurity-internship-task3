@@ -11,7 +11,7 @@ The scan identified a critical unpatched vulnerability in the operating system's
 
 **Affected Systems:**
 * Microsoft Windows 
-* microsoftedge
+* microsoft Edge
 
 **Impact:**
 * **Remote Code Execution (RCE):** An attacker can run malicious code on your system from a remote location.
@@ -25,6 +25,4 @@ This vulnerability requires immediate action. The following steps must be taken 
 2.  **Enable Automatic Updates:** To prevent this issue from reoccurring, confirm that Windows Automatic Updates are enabled and set to install patches as soon as they are released.
 3.  **Use a Firewall:** Ensure your Windows Firewall is active and properly configured to block incoming connections from untrusted sources.
 
-**Technical Reference:**
-* [Provide a link to a Microsoft Security Advisory or a known vulnerability database like MITRE if you find a specific one for your Windows version.]
-```
+
